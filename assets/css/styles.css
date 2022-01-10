@@ -1,0 +1,192 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    color: #d9dcd6;
+    font-family: Helvetica, Arial, sans-serif;
+ 
+}
+
+header {
+    padding: 20px 35px;
+    background-color: #2a607c;
+}
+
+header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: #2a607c;
+    margin 0;
+    display: inline
+}
+
+header a {
+    text-decoration: none;
+    color: #d9dcd6;
+}
+
+header nav {
+    float: right;
+    margin: 7x 0;
+}
+
+header nav ul li {
+    display: inline; 
+}
+
+header nav ul li a{
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 22px;
+}
+
+footer {
+
+background: #d9dcd6;
+width: 100%;
+padding: 40px 35px;
+}
+
+footer h2 {
+    display: inline;
+    color: #024e76;
+    font-size: 30px;
+    margin: 0;
+}
+
+footer div {
+float: right;
+line-height: 1.5;
+text-align: right;
+color: #024e76;
+}
+
+footer a{
+    color: #024e76;
+}
+
+section {
+    padding: 60px;
+  
+}
+/* Hero Style Start */
+
+.hero{
+    background-image: url("images/digital-marketing-meeting");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+
+   /* Hero Style End */
+}
+.benefits {
+    text-align: center;
+    background: #2a607c; 
+
+}
+    
+.benefits div {
+margin-bottom: 80px;
+
+}
+
+.benefits img {
+    width: 15%;
+    margin: 10px 0;
+
+}
+
+.benefits h3 {
+    color: #2a607c; 
+    font-size: 46px;
+    margin-top: 10px;
+
+}
+
+.benefits p {
+    color: #ffffff;
+    font-size: 23px;
+}
+
+.benefits span{
+    font-size: 38px;
+}
+
+.articles {
+text-align: center;
+}
+
+.article {
+    width: 900px;
+    margin: 20px auto 20px auto;
+    background: #024e76;
+    color: #d9dcd6;
+    overflow: auto;
+}
+
+.online {
+    margin: 20px auto 20px auto;
+
+
+
+}
+
+.article img {
+    width: 35%;
+    float: left;
+}
+
+.article-bio {
+    padding: 35px;
+    float: left;
+    width: 65%
+}
+
+.text-left }
+   text-align: :left;
+}
+
+.text-right }
+ text-align: right;
+
+}
+
+.article-bio h3 {
+    font-size: 32px;
+    margin-bottom: 8px;
+}
+
+.article-bio h4 {
+    font-weight: lighter;
+    font-size: 26px;
+    margin-bottom: 25px;
+}
+
+.trainer-bio p {
+   font-size: 17px;
+   line-height: 1:3;
+}
+
+
+
+.intro p { 
+    
+}
+
+}
+.intro p {
+   margin: 0 auto;
+   line-height: 1.7;
+   color: #d9dcd6;
+   font-size: 15px;
+
+}
+
+
+
+
+
